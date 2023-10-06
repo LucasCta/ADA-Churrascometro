@@ -6,7 +6,4 @@ const pessoa = function() {
   const mais = document.createElement("button");
   const menos = document.createElement("button");
 
-
-
-
 }
